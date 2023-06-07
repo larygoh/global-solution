@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.titulo {
+  color: white;
+  padding: 9px;
+}
+
+.carousel-inner {
+  max-width: 100%;
+}
+
+.edinf {
+  flex: auto;
+  align-items: center;
+}
+
+.img-carousel {
+  object-fit: cover;
+}
+
+.img-fu {
+  max-width: 430px;
+}
+
+.img-pp {
+  max-width: 1050px;
+  padding-top: 20px;
+}
