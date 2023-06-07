@@ -29,7 +29,7 @@ function Empreendedores() {
                             </div>
                         </div>
                         <div>
-                            <p>A Fazenda Nova Piratininga não é considerada pequena, porém ela nos mostra com resultados, os benefícios de usar Inteliência Artificial na agropecuária</p>
+                            <p>A Fazenda Nova Piratininga não é considerada pequena, porém ela nos mostra com resultados, os benefícios de usar Inteliência Artificial na agropecuária.</p>
                         </div>
                     </div>
                 </div>
